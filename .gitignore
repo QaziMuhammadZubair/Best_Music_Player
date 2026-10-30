@@ -37,7 +37,6 @@ google-services.json
 GoogleService-Info.plist
 
 # Environment variables
-.env
 .env*.local
 
 # Merge / patch leftovers
@@ -50,7 +49,6 @@ coverage/
 *.tsbuildinfo
 
 # Editors / IDEs
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -59,3 +57,4 @@ coverage/
 .DS_Store
 Thumbs.db
 desktop.ini
+config.bat
