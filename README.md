@@ -73,7 +73,7 @@ Best_Music_Player/
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/QaziMuhammadZubair/Best_Music_Player.git
 cd Best_Music_Player
 
 # Install dependencies
